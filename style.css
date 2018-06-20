@@ -13,10 +13,10 @@ body{
 .box_background{
 	padding-left: 10%;
 	padding-right: 10%;
-	padding-top: 10vh;
-	padding-bottom: 10vh;
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+	min-height: 90vh;
 	overflow: hidden;
-	min-height: 80vh;
 	display: flex;
 	justify-content: center;
 	align-items: center; 
@@ -110,6 +110,8 @@ h2{
 		padding-left: 2%;
 		padding-right: 2%;
 		min-height: initial;
+		padding-top: 10vh;
+		padding-bottom: 10vh;
 	}
 
 	.intro{
